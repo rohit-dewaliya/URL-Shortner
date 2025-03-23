@@ -10,6 +10,7 @@ https://github.com/user-attachments/assets/41e5b9ff-b52a-4e99-bbfc-a80f7e7e45b1
 
 
 ---
+
 ## ⚙️ How It Works
 
 1. The user submits an original URL through the interface.
@@ -37,7 +38,12 @@ def generate_short_code(original_url):
 ```
 
 📌 Note: We do not modify the original URL before saving it to the database. Instead, we append a salt only while hashing, ensuring clean data and collision-free short codes.
+
+---
+
 ## 🚀 Features
+
+
 
 - Shortens long URLs
 - Auto-generates unique short codes
@@ -45,7 +51,9 @@ def generate_short_code(original_url):
 - Copy short URL to clipboard with one click
 - Responsive UI using Bootstrap 5 (Dark theme)
 
+
 ---
+
 ## 🖥️ Tech Stack
 
 - Backend: Django (Python)
