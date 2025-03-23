@@ -5,6 +5,11 @@ Paste a long URL and get a shortened version — quick and easy!
 
 ---
 
+
+https://github.com/user-attachments/assets/41e5b9ff-b52a-4e99-bbfc-a80f7e7e45b1
+
+
+---
 ## 🚀 Features
 
 - Shortens long URLs
